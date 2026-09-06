@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishek341311/DSA-Questions/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Abhishek341311/DSA-Questions/tree/master/0136-single-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Abhishek341311/DSA-Questions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
