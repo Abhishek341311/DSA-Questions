@@ -10,6 +10,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Abhishek341311/DSA-Questions/tree/master/0001-two-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abhishek341311/DSA-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3903-smallest-stable-index-i) |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
