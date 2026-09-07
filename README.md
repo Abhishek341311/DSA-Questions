@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Abhishek341311/DSA-Questions/tree/master/0006-zigzag-conversion) |
+| [0067-add-binary](https://github.com/Abhishek341311/DSA-Questions/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Abhishek341311/DSA-Questions/tree/master/0067-add-binary) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abhishek341311/DSA-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
@@ -37,9 +39,11 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Abhishek341311/DSA-Questions/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Abhishek341311/DSA-Questions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Abhishek341311/DSA-Questions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
