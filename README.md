@@ -49,6 +49,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Abhishek341311/DSA-Questions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Abhishek341311/DSA-Questions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Abhishek341311/DSA-Questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abhishek341311/DSA-Questions/tree/master/0191-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Abhishek341311/DSA-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
@@ -58,5 +59,6 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Abhishek341311/DSA-Questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abhishek341311/DSA-Questions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
