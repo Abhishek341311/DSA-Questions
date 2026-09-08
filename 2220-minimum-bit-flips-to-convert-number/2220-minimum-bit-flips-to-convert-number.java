@@ -1,3 +1,21 @@
+// class Solution {
+//     public int minBitFlips(int start, int goal) {
+        
+//         int n = start ^ goal;
+
+//         int count = 0;
+
+//         for(int i = 0; i < 31; i++){
+
+//             if((n >> i) % 2 != 0) count ++;
+//         }
+
+//         return count;
+
+//     }
+// }
+
+
 class Solution {
     public int minBitFlips(int start, int goal) {
         
@@ -5,12 +23,11 @@ class Solution {
 
         int count = 0;
 
-        for(int i = 0; i < 31; i++){
-
-            if((n >> i) % 2 != 0) count ++;
+        while(n != 0){
+            count += n & 1;
+            n = n >> 1;
         }
 
         return count;
-
     }
 }
