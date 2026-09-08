@@ -49,8 +49,13 @@
 | ------- |
 | [0067-add-binary](https://github.com/Abhishek341311/DSA-Questions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Abhishek341311/DSA-Questions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Abhishek341311/DSA-Questions/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/Abhishek341311/DSA-Questions/tree/master/3731-find-missing-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Abhishek341311/DSA-Questions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
