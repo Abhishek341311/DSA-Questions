@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Abhishek341311/DSA-Questions/tree/master/0067-add-binary) |
+| [3870-count-commas-in-range](https://github.com/Abhishek341311/DSA-Questions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abhishek341311/DSA-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
