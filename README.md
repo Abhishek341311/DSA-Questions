@@ -30,6 +30,7 @@
 | [0067-add-binary](https://github.com/Abhishek341311/DSA-Questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Abhishek341311/DSA-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Abhishek341311/DSA-Questions/tree/master/0342-power-of-four) |
+| [1486-xor-operation-in-an-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [3870-count-commas-in-range](https://github.com/Abhishek341311/DSA-Questions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Abhishek341311/DSA-Questions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -59,6 +60,7 @@
 | [0231-power-of-two](https://github.com/Abhishek341311/DSA-Questions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Abhishek341311/DSA-Questions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Abhishek341311/DSA-Questions/tree/master/0342-power-of-four) |
+| [1486-xor-operation-in-an-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Abhishek341311/DSA-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
