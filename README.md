@@ -12,6 +12,7 @@
 | [0001-two-sum](https://github.com/Abhishek341311/DSA-Questions/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/Abhishek341311/DSA-Questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Abhishek341311/DSA-Questions/tree/master/0136-single-number) |
+| [0861-score-after-flipping-matrix](https://github.com/Abhishek341311/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Abhishek341311/DSA-Questions/tree/master/3731-find-missing-elements) |
@@ -43,6 +44,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/Abhishek341311/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Simulation
 |  |
@@ -60,6 +62,7 @@
 | [0231-power-of-two](https://github.com/Abhishek341311/DSA-Questions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Abhishek341311/DSA-Questions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Abhishek341311/DSA-Questions/tree/master/0342-power-of-four) |
+| [0861-score-after-flipping-matrix](https://github.com/Abhishek341311/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Abhishek341311/DSA-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
@@ -84,4 +87,8 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Abhishek341311/DSA-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Abhishek341311/DSA-Questions/tree/master/0342-power-of-four) |
+## Matrix
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/Abhishek341311/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
 <!---LeetCode Topics End-->
