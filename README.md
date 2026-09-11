@@ -68,6 +68,7 @@
 | [0231-power-of-two](https://github.com/Abhishek341311/DSA-Questions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Abhishek341311/DSA-Questions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Abhishek341311/DSA-Questions/tree/master/0342-power-of-four) |
+| [0476-number-complement](https://github.com/Abhishek341311/DSA-Questions/tree/master/0476-number-complement) |
 | [0861-score-after-flipping-matrix](https://github.com/Abhishek341311/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Abhishek341311/DSA-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
