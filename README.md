@@ -13,6 +13,7 @@
 | [0078-subsets](https://github.com/Abhishek341311/DSA-Questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Abhishek341311/DSA-Questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Abhishek341311/DSA-Questions/tree/master/0137-single-number-ii) |
+| [0645-set-mismatch](https://github.com/Abhishek341311/DSA-Questions/tree/master/0645-set-mismatch) |
 | [0861-score-after-flipping-matrix](https://github.com/Abhishek341311/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishek341311/DSA-Questions/tree/master/0001-two-sum) |
+| [0645-set-mismatch](https://github.com/Abhishek341311/DSA-Questions/tree/master/0645-set-mismatch) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhishek341311/DSA-Questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhishek341311/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Abhishek341311/DSA-Questions/tree/master/3731-find-missing-elements) |
@@ -69,6 +71,7 @@
 | [0338-counting-bits](https://github.com/Abhishek341311/DSA-Questions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Abhishek341311/DSA-Questions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Abhishek341311/DSA-Questions/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/Abhishek341311/DSA-Questions/tree/master/0645-set-mismatch) |
 | [0861-score-after-flipping-matrix](https://github.com/Abhishek341311/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [0868-binary-gap](https://github.com/Abhishek341311/DSA-Questions/tree/master/0868-binary-gap) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/1486-xor-operation-in-an-array) |
@@ -77,6 +80,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Abhishek341311/DSA-Questions/tree/master/0645-set-mismatch) |
 | [3731-find-missing-elements](https://github.com/Abhishek341311/DSA-Questions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
