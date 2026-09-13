@@ -72,6 +72,7 @@
 | [0342-power-of-four](https://github.com/Abhishek341311/DSA-Questions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Abhishek341311/DSA-Questions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Abhishek341311/DSA-Questions/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Abhishek341311/DSA-Questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-score-after-flipping-matrix](https://github.com/Abhishek341311/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [0868-binary-gap](https://github.com/Abhishek341311/DSA-Questions/tree/master/0868-binary-gap) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/1486-xor-operation-in-an-array) |
