@@ -19,6 +19,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhishek341311/DSA-Questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhishek341311/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek341311/DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Abhishek341311/DSA-Questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abhishek341311/DSA-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -40,6 +41,7 @@
 | [0342-power-of-four](https://github.com/Abhishek341311/DSA-Questions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhishek341311/DSA-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/1486-xor-operation-in-an-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek341311/DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Abhishek341311/DSA-Questions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Abhishek341311/DSA-Questions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
