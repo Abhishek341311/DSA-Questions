@@ -15,6 +15,7 @@
 | [0137-single-number-ii](https://github.com/Abhishek341311/DSA-Questions/tree/master/0137-single-number-ii) |
 | [0645-set-mismatch](https://github.com/Abhishek341311/DSA-Questions/tree/master/0645-set-mismatch) |
 | [0861-score-after-flipping-matrix](https://github.com/Abhishek341311/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhishek341311/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhishek341311/DSA-Questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -49,6 +50,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhishek341311/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Abhishek341311/DSA-Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
@@ -114,4 +116,12 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhishek341311/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhishek341311/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhishek341311/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
