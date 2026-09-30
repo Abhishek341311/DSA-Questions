@@ -82,6 +82,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/Abhishek341311/DSA-Questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-score-after-flipping-matrix](https://github.com/Abhishek341311/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [0868-binary-gap](https://github.com/Abhishek341311/DSA-Questions/tree/master/0868-binary-gap) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Abhishek341311/DSA-Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhishek341311/DSA-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Abhishek341311/DSA-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
