@@ -18,6 +18,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek341311/DSA-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abhishek341311/DSA-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Abhishek341311/DSA-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek341311/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhishek341311/DSA-Questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhishek341311/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -88,6 +89,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abhishek341311/DSA-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Abhishek341311/DSA-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Abhishek341311/DSA-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhishek341311/DSA-Questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
