@@ -43,6 +43,7 @@
 | [0231-power-of-two](https://github.com/Abhishek341311/DSA-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Abhishek341311/DSA-Questions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Abhishek341311/DSA-Questions/tree/master/0371-sum-of-two-integers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Abhishek341311/DSA-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhishek341311/DSA-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhishek341311/DSA-Questions/tree/master/1486-xor-operation-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek341311/DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -82,6 +83,7 @@
 | [0476-number-complement](https://github.com/Abhishek341311/DSA-Questions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Abhishek341311/DSA-Questions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Abhishek341311/DSA-Questions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Abhishek341311/DSA-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0861-score-after-flipping-matrix](https://github.com/Abhishek341311/DSA-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [0868-binary-gap](https://github.com/Abhishek341311/DSA-Questions/tree/master/0868-binary-gap) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Abhishek341311/DSA-Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abhishek341311/DSA-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Abhishek341311/DSA-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
