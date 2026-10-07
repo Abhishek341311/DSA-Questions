@@ -96,6 +96,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Abhishek341311/DSA-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Abhishek341311/DSA-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhishek341311/DSA-Questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Abhishek341311/DSA-Questions/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Sorting
 |  |
 | ------- |
