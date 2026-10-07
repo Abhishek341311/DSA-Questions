@@ -1,28 +1,33 @@
+import java.util.HashSet;
+
 class Solution {
     public boolean hasAllCodes(String s, int k) {
 
+        int total = 1 << k;
+
+        if (s.length() < k) {
+            return false;
+        }
+
         HashSet<Integer> set = new HashSet<>();
 
-        int limit = 1 << k;
+        int bit = 0;
 
-        for (int i = 0; i < limit; i++) {
-            set.add(i);
+        for (int i = 0; i < k; i++) {
+            bit = (bit << 1) | (s.charAt(i) - '0');
         }
 
-        for (int i = 0; i <= s.length() - k; i++) {
+        set.add(bit);
 
-            int bit = 0;
+        int mask = total - 1;
 
-            for (int j = i; j < i + k; j++) {
+        for (int i = k; i < s.length(); i++) {
 
-                int temp = s.charAt(j) - '0';
+            bit = ((bit << 1) | (s.charAt(i) - '0')) & mask;
 
-                bit = (bit << 1) | temp;
-            }
-
-            set.remove(bit);
+            set.add(bit);
         }
 
-        return set.isEmpty();
+        return set.size() == total;
     }
 }
