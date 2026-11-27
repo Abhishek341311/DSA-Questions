@@ -15,7 +15,7 @@ class Solution {
             if(map.containsKey(sum)){
                 length = Math.max(length, i - map.get(sum));
             }
-            map.put(sum, i);
+            else map.put(sum, i);
         }       
 
         return length;
